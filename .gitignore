@@ -1,2 +1,7 @@
 checkpoints/*
 !checkpoints/README.md
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
