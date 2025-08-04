@@ -2,6 +2,15 @@
 
 This repository contains JAX example code for loading and running the Grok-1 open-weights model.
 
+## 📚 Documentation
+
+- **[Simple Explanation](SIMPLE_EXPLANATION.md)** - High-level overview explained in simple terms
+- **[Code Walkthrough](CODE_WALKTHROUGH.md)** - Step-by-step explanation of key functions
+- **[Technical Details](TECHNICAL_DETAILS.md)** - Deep dive into architecture and implementation
+- **[Original README](#usage)** - Setup and usage instructions (below)
+
+## Usage
+
 Make sure to download the checkpoint and place the `ckpt-0` directory in `checkpoints` - see [Downloading the weights](#downloading-the-weights)
 
 Then, run
